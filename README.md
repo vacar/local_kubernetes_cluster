@@ -1,6 +1,6 @@
 # Docker, Docker-Compose and Local Kubernetes Cluster
 
-This script will install all the dependencies.
+This script will install all the dependencies required to run a Local K8s Cluster.
 
 This script can be used with any Linux-Dist.
 
