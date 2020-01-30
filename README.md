@@ -6,8 +6,9 @@ This script can be used with any Linux-Dist.
 
 ## Usage
 
-`chmod +x local_kubernetes_cluster.sh`
-`./local_kubernetes_cluster.sh`
+$ `chmod +x local_kubernetes_cluster.sh`
+
+$ `./local_kubernetes_cluster.sh`
 
 
 
